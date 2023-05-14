@@ -48,7 +48,7 @@ const MyApp = () => {
             </Page>
           </View>
         </Panel>
-        <View main url="/" />
+        <View main url="/" browserHistory />
         <Popup id="my-popup">
           <View>
             <Page>
